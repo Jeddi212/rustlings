@@ -1,2 +1,0 @@
-# rustlings
-Personal rustlings progress
